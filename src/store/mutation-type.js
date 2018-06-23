@@ -1,0 +1,24 @@
+'use strict';
+
+//保存直投&转让产品数据列表
+export const SET_TOKEN = "SET_TOKEN";
+export const SET_USERDATA = "SET_USERDATA";
+export const SET_CURRENTPATH = "SET_CURRENTPATH"; //面包屑路径列表
+export const SET_OPENEDLIST = "SET_OPENEDLIST";
+export const INIT_CACHEPAGE = "INIT_CACHEPAGE";
+export const SET_TAGSLIST = "SET_TAGSLIST";
+export const SET_CURRENTPAGENAME = "SET_CURRENTPAGENAME";
+export const ADD_OPENSUBMENU = "ADD_OPENSUBMENU";
+export const PAGE_OPENEDLIST = "PAGE_OPENEDLIST";
+export const UPDATE_MENULIST = "UPDATE_MENULIST";
+export const SET_MENULIST = "SET_MENULIST";
+export const SET_MESSAGECOUNT = "SET_MESSAGECOUNT";
+export const CLEAR_OPENEDSUBMENU = "CLEAR_OPENEDSUBMENU";
+export const INCREATE_TAG = "INCREATE_TAG";
+export const CLEAR_ALLTAGS = "CLEAR_ALLTAGS";
+export const CLEAR_OTHERTAGS = "CLEAR_OTHERTAGS";
+export const REMOVE_TAG = "REMOVE_TAG";
+export const CLOSE_PAGE = "CLOSE_PAGE";
+export const APPEND_MENU = "APPEND_MENU";
+export const LOAD_ROUTES = "LOAD_ROUTES";
+export const SET_ROUTES = "SET_ROUTES";
